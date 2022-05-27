@@ -6,28 +6,12 @@ Me considero alguém com muita determinação, persistência, calmo e bem detalh
 
 Trabalho com desenvolvimento web, mas atualmente estou focado em meus estudos com desenvolvimento mobile utilizando React Native, no intuito de passar a atuar como um desenvolvedor mobile.
 
-Tecnologias nas quais eu já tive contato:
-<p>
-<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
-&nbsp;
-<img src="https://image.flaticon.com/icons/png/512/226/226770.png" height="35px"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px"/> 
-&nbsp;
-<img src="https://img.icons8.com/color/452/microsoft-sql-server.png" height="35px" />   
-&nbsp; 
-<img src="https://img.icons8.com/color/452/firebase.png" height="35px" />   
-&nbsp;
-<img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
-&nbsp;
-<img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="35px" />
-&nbsp;
-<img src="https://bestofjs.org/logos/watermelon.svg" height="35px" />
-</p>
+Tecnologias que estou mais utilizando atualmente.
+📲 Mobile com React Native, Expo.
+🌎 Web com ReactJS, NextJS.
+📡 Back-end com NodeJS.
+🛠️ Utilizando TypeScript em todos os projetos.
+🧰 E demais techs em torno dessas tecnologias.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rquartaroli&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rquartaroli&layout=compact&langs_count=8&theme=dracula)](https://github.com/rquartaroli/github-readme-stats)
