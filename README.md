@@ -6,13 +6,24 @@ Me considero alguém com muita determinação, persistência, calmo e bem detalh
 
 Trabalho com desenvolvimento web, mas atualmente estou focado em meus estudos com desenvolvimento mobile utilizando React Native, no intuito de passar a atuar como um desenvolvedor mobile.
 
-Tecnologias que estou mais utilizando atualmente.
+### Tecnologias que estou mais utilizando atualmente.
+<p>
 📲 Mobile com React Native, Expo.
+</p>
+<p>
 🌎 Web com ReactJS, NextJS.
+</p>
+<p>
 📡 Back-end com NodeJS.
+</p>
+<p>
 🛠️ Utilizando TypeScript em todos os projetos.
+</p>
+<p>
 🧰 E demais techs em torno dessas tecnologias.
+</p> 
 
+<br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rquartaroli&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rquartaroli&layout=compact&langs_count=8&theme=dracula)](https://github.com/rquartaroli/github-readme-stats)
 
