@@ -24,6 +24,7 @@ Trabalho com desenvolvimento web, mas atualmente estou focado em meus estudos co
 </p> 
 
 <br />
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rquartaroli&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rquartaroli&layout=compact&langs_count=8&theme=dracula)](https://github.com/rquartaroli/github-readme-stats)
 
