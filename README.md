@@ -35,6 +35,7 @@ Acredito que somente estando ativo e em constante movimento, encarando desafios,
 
 ### Projeto pessoal na Google Play Store
 - [OverProfile](https://play.google.com/store/apps/details?id=com.overwatchproject)
+- [Shared List](https://play.google.com/store/apps/details?id=com.sharedlist&pli=1)
 
 ### Me siga no LinkedIn
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-quartaroli-684439103/)](https://www.linkedin.com/in/rafael-quartaroli-684439103/)
