@@ -1,41 +1,49 @@
 ## Olá 👋, sou Rafael Quartaroli
 
-Adoro desafios, mais especificamente aquela sensação de satisfação após concluir aquele desafio complexo que gera até desconforto sabe ? Pois então, é muito gratificante resolver esses desafios e deixar a marca do seu código lá.
+Analista e Desenvolvedor Full Stack.
 
-Me considero alguém com muita determinação, persistência, calmo e bem detalhista, sou aquele que gosta das coisas bem feitas, aliás, já que você já esta dedicando seu tempo naquilo que esta fazendo, porque não fazer bem feito não é mesmo ? Muito melhor dedicar um tempinho à mais para deixar aquilo funcionando redondinho e bonito, do que fazer muito rápido e ficar revisitando aquilo toda vez para ajeitar detalhes que ficaram faltando.
-
-Trabalho com desenvolvimento web, mas atualmente estou focado em meus estudos com desenvolvimento mobile utilizando React Native, no intuito de passar a atuar como um desenvolvedor mobile.
+Perfil de liderança, conduzindo com muita eficiência e praticidade os projetos aos quais estou envolvido, sempre buscando extrair o máximo de performance da aplicação mantendo a usabilidade e uma excelente experiência do usuário.
 
 ### Tecnologias que estou mais utilizando atualmente.
 <p>
-📲 Mobile com React Native, Expo.
+📲 Mobile com React Native, Expo, Kotlin/Java.
 </p>
 <p>
-🌎 Web com ReactJS, NextJS.
+🌎 Web com React JS, Next JS.
 </p>
 <p>
-📡 Back-end com NodeJS.
+📡 Back-end com Node JS, Nest JS, PHP, Firebase.
 </p>
 <p>
-🛠️ Utilizando TypeScript em todos os projetos.
+🛠️ Utilizando TypeScript em todos os projetos que envolvam tecnologias com JavaScript.
 </p>
 <p>
 🧰 E demais techs em torno dessas tecnologias.
 </p> 
 
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rquartaroli&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rquartaroli&layout=compact&langs_count=8&theme=dracula)](https://github.com/rquartaroli/github-readme-stats)
-
 ### Um pouco mais sobre mim
-Sou gamer, mas daqueles chamados hoje em dia de jogador hardcore, gosto de jogos desafiadores e que exijam habilidade do jogador. Gosto também de animes, séries e filmes, apesar de ter esse perfil de uma pessoa caseira, também gosto de sair, passar tempo trocando ideias com meus amigos em barzinhos, churras, cinema, e claro, sempre bem acompanhado.
+Você conseguirá encontrar mais sobre mim através de meu portfólio, lá está disponibilizado alguns projetos que desenvolvi assim como todos os meios de entrar em contato comigo.
+[Portfólio]:(https://portfolio-rquartaroli.vercel.app/)
 
-Acredito que somente estando ativo e em constante movimento, encarando desafios, é que podemos evoluir.
 
-### Projeto pessoal na Google Play Store
-- [OverProfile](https://play.google.com/store/apps/details?id=com.overwatchproject)
+### Projetos pessoais na Google Play Store
 - [Shared List](https://play.google.com/store/apps/details?id=com.sharedlist&pli=1)
+- [OverProfile](https://play.google.com/store/apps/details?id=com.overwatchproject)
 
 ### Me siga no LinkedIn
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-quartaroli-684439103/)](https://www.linkedin.com/in/rafael-quartaroli-684439103/)
