@@ -51,7 +51,8 @@ Perfil de liderança, conduzindo com muita eficiência e praticidade os projetos
 
 ### Um pouco mais sobre mim
 Você conseguirá encontrar mais sobre mim através de meu portfólio, lá está disponibilizado alguns projetos que desenvolvi assim como todos os meios de entrar em contato comigo.
-[Portfólio]:(https://portfolio-rquartaroli.vercel.app/)
+<br />
+[Portfólio](https://portfolio-rquartaroli.vercel.app/)
 
 
 ### Projetos pessoais na Google Play Store
