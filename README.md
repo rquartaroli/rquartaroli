@@ -4,6 +4,8 @@ Analista e Desenvolvedor Full Stack.
 
 Perfil de liderança, conduzindo com muita eficiência e praticidade os projetos aos quais estou envolvido, sempre buscando extrair o máximo de performance da aplicação mantendo a usabilidade e uma excelente experiência do usuário.
 
+### 👀 Estou buscando uma vaga no momento 👀
+
 ### Tecnologias que estou mais utilizando atualmente.
 <p>
 📲 Mobile com React Native, Expo, Kotlin/Java.
@@ -13,6 +15,12 @@ Perfil de liderança, conduzindo com muita eficiência e praticidade os projetos
 </p>
 <p>
 📡 Back-end com Node JS, Nest JS, PHP, Firebase.
+</p>
+<p>
+🚀 Arquiteturas MVC, MVP, MVVM e Clean Architecture.
+</p>
+<p>
+💡 SOLID.
 </p>
 <p>
 🛠️ Utilizando TypeScript em todos os projetos que envolvam tecnologias com JavaScript.
