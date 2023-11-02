@@ -8,7 +8,7 @@ Perfil de liderança, conduzindo com muita eficiência e praticidade os projetos
 
 ### Tecnologias que estou mais utilizando atualmente.
 <p>
-📲 Mobile com React Native, Expo, Kotlin/Java.
+📲 Mobile com React Native, Flutter, Kotlin/Java.
 </p>
 <p>
 🌎 Web com React JS, Next JS.
@@ -37,6 +37,8 @@ Perfil de liderança, conduzindo com muita eficiência e praticidade os projetos
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   &nbsp;
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  &nbsp;
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   &nbsp;
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   &nbsp;
