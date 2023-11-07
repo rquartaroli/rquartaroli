@@ -4,8 +4,6 @@ Analista e Desenvolvedor Full Stack.
 
 Perfil de liderança, conduzindo com muita eficiência e praticidade os projetos aos quais estou envolvido, sempre buscando extrair o máximo de performance da aplicação mantendo a usabilidade e uma excelente experiência do usuário.
 
-### 👀 Estou buscando uma vaga no momento 👀
-
 ### Tecnologias que estou mais utilizando atualmente.
 <p>
 📲 Mobile com React Native, Flutter, Kotlin/Java.
